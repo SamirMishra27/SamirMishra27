@@ -24,7 +24,7 @@ I have made a **[Discord bot](https://top.gg/bot/753191385296928808)** which let
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: It has been 0 days since a new Javascript frame work was released! 
 
-- Talk to me: ![](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)
+- 💬 Talk to me: [![](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/Mb9s5sVkSz)
 
 ### 🔍 My github at a Glance
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=SamirMishra27&show_icons=true)

@@ -20,7 +20,7 @@ Apart from that, I know Python as well. It was my first programming language and
 I have made a **[Discord bot](https://top.gg/bot/753191385296928808)** which lets you play **Multiplayer Hand Cricket**, with 22 of your friends! 🏏
 
 - 🔭 I’m currently working on: My discord bot & my web development skills!
-- 🌱 I’m currently learning: Javascript, React.js, Typescirpt, etc.
+- 🌱 I’m currently learning: Javascript, React.js, Typescript, etc.
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: It has been 0 days since a new Javascript frame work was released! 
 

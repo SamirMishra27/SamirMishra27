@@ -16,6 +16,7 @@ I have made a **[Discord bot](https://top.gg/bot/753191385296928808)** which let
 
 - 💬 Talk to me on: 
 <p>
+&emsp;&emsp;
 <a href="https://www.linkedin.com/in/samir-mishra-497284137/">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="width:48px;height:auto;"/>
 </a>

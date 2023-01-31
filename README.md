@@ -33,10 +33,9 @@ I have made a **[Discord bot](https://top.gg/bot/753191385296928808)** which let
 ### 🔍 My github at a Glance
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=SamirMishra27&theme=blue-green)
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=SamirMishra27&show_icons=true)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=SamirMishra27&theme=black-ice)](https://git.io/streak-stats)
 
-<!-- ![Your Repository's StatsYour Repository's Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SamirMishra27&theme=vue)	
 
-![Your Repository's Stats](https://github-profile-trophy.vercel.app/?username=SamirMishra27)	-->
 
 ### My Stack
 <p>

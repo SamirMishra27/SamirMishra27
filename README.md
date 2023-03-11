@@ -34,6 +34,7 @@ I have made a **[Discord bot](https://top.gg/bot/753191385296928808)** which let
  - 🏏 First ever cricket game where you can play multiplayer with 20+ people together **(11,000+ users)** - **[Link to discord bot](http://top.gg/bot/753191385296928808/)**
  - 📝 A simple to use TO-DO web application - **[Repository](https://github.com/SamirMishra27/Tasker-Todo-App-Mern)**
  - 🔥 Hack-a-thon Project (#2PlaysAMonth) - Web Based Cricket Game - **[Project Link](https://github.com/reactplay/react-play/tree/main/src/plays/cricket-game)** - **[Play it here](https://reactplay.io/plays/samirmishra27/cricket-game)**
+ - 🔥 Hack-a-thon Project (#2PlaysAMonth) - Wordle Unlimited - **[Project Link](https://github.com/reactplay/react-play/tree/main/src/plays/wordle)** - **[Play it here](https://reactplay.io/plays/samirmishra27/wordle)**
 
 ### 🔍 My github at a Glance
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=SamirMishra27&theme=blue-green)

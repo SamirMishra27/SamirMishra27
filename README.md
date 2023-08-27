@@ -28,8 +28,9 @@ I have made a **[Discord bot](https://top.gg/bot/753191385296928808)** which let
 <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1611902473383/CDyAuTy75.png?auto=compress" style="width:48px;height:auto;" />
 </a>
 
-<a href="https://twitter.com/SamirMishra27">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" style="width:48px;height:auto;" />
+<a href="https://leetcode.com/SamirMishra27/">
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png?20191202080835" style="width:48px;height:auto;" />
+</a>
 </a>
 </p>
 

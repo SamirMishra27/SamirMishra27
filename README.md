@@ -34,7 +34,7 @@ I have made a **[Discord bot](https://top.gg/bot/753191385296928808)** which let
 </a>
 </p>
 
-### My proud projects
+### My Projects
  - 🏏 First ever cricket game where you can play multiplayer with 20+ people together **(15,000+ users)** - **[Link to discord bot](http://top.gg/bot/753191385296928808/)**
  - 🔥 Hack-a-thon Project (#2PlaysAMonth) - Web Based Cricket Game - **[Project Link](https://github.com/reactplay/react-play/tree/main/src/plays/cricket-game)** - **[Play it here](https://reactplay.io/plays/samirmishra27/cricket-game)**
  - 🔥 Hack-a-thon Project (#2PlaysAMonth) - Wordle Unlimited - **[Project Link](https://github.com/reactplay/react-play/tree/main/src/plays/wordle)** - **[Play it here](https://reactplay.io/plays/samirmishra27/wordle)**
@@ -44,6 +44,9 @@ I have made a **[Discord bot](https://top.gg/bot/753191385296928808)** which let
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=SamirMishra27&theme=blue-green)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=SamirMishra27&theme=black-ice)](https://git.io/streak-stats)
 
+<p>
+</p>
+<img src="https://user-images.githubusercontent.com/68955143/264739572-1044f2e9-8e67-4059-a56b-ff5fc431de26.png" style=""/>
 ### My Stack
 <p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" style="width:48px;height:auto;"/>

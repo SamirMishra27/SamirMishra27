@@ -45,9 +45,11 @@ I have made a **[Discord bot](https://top.gg/bot/753191385296928808)** which let
 [![GitHub Streak](https://streak-stats.demolab.com/?user=SamirMishra27&theme=black-ice)](https://git.io/streak-stats)
 
 <p>
-</p>
 <img src="https://user-images.githubusercontent.com/68955143/264739572-1044f2e9-8e67-4059-a56b-ff5fc431de26.png" style=""/>
+</p>
+
 ### My Stack
+
 <p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" style="width:48px;height:auto;"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" style="width:48px;height:auto;"/>
@@ -74,6 +76,7 @@ I have made a **[Discord bot](https://top.gg/bot/753191385296928808)** which let
 </p>
 
 ### My Certifications
+- Code With Mosh 〉 [Building Full Stack Applications In Next Js](https://codewithmosh.com/p/nextjs-projects-issue-tracker) 〉 **[Certificate](https://members.codewithmosh.com/courses/2187934/certificate)**
 - iNeuron.ai 〉 [Full Stack JavaScript Web Development](https://learn.ineuron.ai/certificate/096780fe-063c-4cbd-9135-c8862159e064) 〉 **[Certificate](https://learn.ineuron.ai/certificate/096780fe-063c-4cbd-9135-c8862159e064)**
 - Nathan Stocks 〉 [Ultimate Rust Crash Course](https://www.udemy.com/course/ultimate-rust-crash-course/) 〉 **[Certificate](https://udemy-certificate.s3.amazonaws.com/pdf/UC-a2c0e1ea-bb54-4716-bc33-67341d879a39.pdf)**
 - LearnCodeOnline.in 〉 [Complete Git & Github Course](https://courses.learncodeonline.in/) 〉 **[Certificate](https://s3-ap-southeast-1.amazonaws.com/learnyst/schools/2410/certificates/24027/6713025_24027.pdf?1674763696)**

@@ -8,7 +8,7 @@ I thrive on challenges and am always eager to learn new things. As a perpetual l
 
 
 - 🔭 I’m currently working on: Lots of side projects!
-- 🌱 I’m currently learning: TypeScript, Next, Rust, & Relational Databases!
+- 🌱 I’m currently learning: TypeScript, React/Next, Golang, & Relational Databases!
 - ⚡ Fun fact: **`!False`**, funny because it's **`True`**!
 
 <div style="display:flex; align-items:center;">
@@ -35,7 +35,7 @@ I thrive on challenges and am always eager to learn new things. As a perpetual l
 <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png?20191202080835" style="width:48px;height:auto;" />
 </a>
 
-<a>
+<a href="https://dev.to/samirmishra27/">
 <img src="https://dev-to-uploads.s3.amazonaws.com/uploads/logos/resized_logo_UQww2soKuUsjaOGNB38o.png" style="width:48px;height:auto;" />
 </a>
 </p>
@@ -74,9 +74,6 @@ I thrive on challenges and am always eager to learn new things. As a perpetual l
 <p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="width:48px;height:auto;"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" style="width:48px;height:auto;"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" style="width:48px;height:auto;"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="width:48px;height:auto;"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="width:48px;height:auto;"/>
 <img src="https://vitejs.dev/logo-with-shadow.png" style="width:48px;height:auto;"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" style="width:48px;height:auto;"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" style="width:48px;height:auto;"/>
@@ -96,10 +93,12 @@ I thrive on challenges and am always eager to learn new things. As a perpetual l
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="width:48px;height:auto;"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain-wordmark.svg" style="width:48px;height:auto;"/>
 <img src="https://cdn.svgporn.com/logos/swagger.svg" style="width:48px;height:auto;"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" style="width:48px;height:auto;"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="width:48px;height:auto;"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="width:48px;height:auto;"/>
 </p>
 
 ### My Certifications
-- Code With Mosh 〉 [Building Full Stack Applications In Next Js](https://codewithmosh.com/p/nextjs-projects-issue-tracker) 〉 **[Certificate](https://members.codewithmosh.com/courses/2187934/certificate)**
+- [Jonas Schmedtmann](https://twitter.com/jonasschmedtman) 〉 [Complete JavaScript Course](https://www.udemy.com/course/the-complete-javascript-course/) 〉 **[Certificate](https://www.udemy.com/certificate/UC-dd6d6b36-1d59-48f0-ad83-93b75e109c90/)**
+- [Code With Mosh](https://twitter.com/moshhamedani) 〉 [Building Full Stack Applications In Next Js](https://codewithmosh.com/p/nextjs-projects-issue-tracker) 〉 **[Certificate](https://members.codewithmosh.com/courses/2187934/certificate)**
 - iNeuron.ai 〉 [Full Stack JavaScript Web Development](https://learn.ineuron.ai/certificate/096780fe-063c-4cbd-9135-c8862159e064) 〉 **[Certificate](https://learn.ineuron.ai/certificate/096780fe-063c-4cbd-9135-c8862159e064)**
-- Nathan Stocks 〉 [Ultimate Rust Crash Course](https://www.udemy.com/course/ultimate-rust-crash-course/) 〉 **[Certificate](https://udemy-certificate.s3.amazonaws.com/pdf/UC-a2c0e1ea-bb54-4716-bc33-67341d879a39.pdf)**
-- LearnCodeOnline.in 〉 [Complete Git & Github Course](https://courses.learncodeonline.in/) 〉 **[Certificate](https://s3-ap-southeast-1.amazonaws.com/learnyst/schools/2410/certificates/24027/6713025_24027.pdf?1674763696)**

@@ -8,7 +8,7 @@ I thrive on challenges and am always eager to learn new things. As a perpetual l
 
 
 - 🔭 I’m currently working on: Lots of side projects!
-- 🌱 I’m currently learning: TypeScript, React/Next, Golang, & Relational Databases!
+- 🌱 I’m currently learning: Svelte, TypeScript, Golang, & System Design!
 - ⚡ Fun fact: **`!False`**, funny because it's **`True`**!
 
 <div style="display:flex; align-items:center;">
@@ -37,6 +37,10 @@ I thrive on challenges and am always eager to learn new things. As a perpetual l
 
 <a href="https://dev.to/samirmishra27/">
 <img src="https://dev-to-uploads.s3.amazonaws.com/uploads/logos/resized_logo_UQww2soKuUsjaOGNB38o.png" style="width:48px;height:auto;" />
+</a>
+
+<a href="https://x.com/SamirMishra27">
+<img src="https://img.freepik.com/free-vector/new-2023-twitter-logo-x-icon-design_1017-45418.jpg" style="width:48px;height:auto;" />
 </a>
 </p>
 </div>
@@ -67,7 +71,8 @@ I thrive on challenges and am always eager to learn new things. As a perpetual l
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="width:48px;height:auto;"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" style="width:48px;height:auto;"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="width:48px;height:auto;"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" style="width:48px;height:auto;"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" style="width:48px;height:auto;"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" style="width:48px;height:auto;"/>
 </p>
 
 ###### Frameworks & Libraries
@@ -77,6 +82,8 @@ I thrive on challenges and am always eager to learn new things. As a perpetual l
 <img src="https://vitejs.dev/logo-with-shadow.png" style="width:48px;height:auto;"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" style="width:48px;height:auto;"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" style="width:48px;height:auto;"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original-wordmark.svg" style="width:48px;height:auto;"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/svelte/svelte-original.svg" style="width:48px;height:auto;"/>
 
 </p>
 
@@ -86,6 +93,7 @@ I thrive on challenges and am always eager to learn new things. As a perpetual l
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" style="width:48px;height:auto;"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" style="width:48px;height:auto;"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="width:48px;height:auto;"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" style="width:48px;height:auto;"/>
 </p>
 
 ###### Others
@@ -93,7 +101,7 @@ I thrive on challenges and am always eager to learn new things. As a perpetual l
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="width:48px;height:auto;"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain-wordmark.svg" style="width:48px;height:auto;"/>
 <img src="https://cdn.svgporn.com/logos/swagger.svg" style="width:48px;height:auto;"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" style="width:48px;height:auto;"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" style="width:48px;height:auto;"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="width:48px;height:auto;"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="width:48px;height:auto;"/>
 </p>
@@ -102,3 +110,4 @@ I thrive on challenges and am always eager to learn new things. As a perpetual l
 - [Jonas Schmedtmann](https://twitter.com/jonasschmedtman) 〉 [Complete JavaScript Course](https://www.udemy.com/course/the-complete-javascript-course/) 〉 **[Certificate](https://www.udemy.com/certificate/UC-dd6d6b36-1d59-48f0-ad83-93b75e109c90/)**
 - [Code With Mosh](https://twitter.com/moshhamedani) 〉 [Building Full Stack Applications In Next Js](https://codewithmosh.com/p/nextjs-projects-issue-tracker) 〉 **[Certificate](https://members.codewithmosh.com/courses/2187934/certificate)**
 - iNeuron.ai 〉 [Full Stack JavaScript Web Development](https://learn.ineuron.ai/certificate/096780fe-063c-4cbd-9135-c8862159e064) 〉 **[Certificate](https://learn.ineuron.ai/certificate/096780fe-063c-4cbd-9135-c8862159e064)**
+- [Academind](https://x.com/academind_real) 〉 [SQL The Complete Developer's Complete Guide](https://www.udemy.com/course/sql-the-complete-developers-guide-mysql-postgresql/) 〉 **[Certificate](https://www.udemy.com/certificate/UC-35025050-5e0c-4899-bfd9-ccf07f0c2c95/)**

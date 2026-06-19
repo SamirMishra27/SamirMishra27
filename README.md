@@ -1,6 +1,7 @@
-# Samir Mishra
+# Hey 👋 I'm Samir
+**I build platforms, not just sites.**
 
-Software engineer focused on backend systems and web applications, with most of my current work centered around backend development, automations, and MySQL-backed systems. One of my core strengths is taking products from scratch to deployment and keeping them operational in production. Currently exploring LLMs, better code optimization practices, n8n, and system design.
+Software engineer specializing in backend systems, APIs, data infrastructure, and automation pipelines. Strong track record of taking products from scratch to deployment and keeping them operational in production. Currently exploring LLMs, agentic AI, and system design.
 
 ## Selected Projects
 

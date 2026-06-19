@@ -21,6 +21,8 @@ Software engineer specializing in backend systems, APIs, data infrastructure, an
 
 - [These 4 New JavaScript Methods Are a Game-Changer](https://dev.to/samirmishra27/these-4-new-javascript-methods-are-a-game-changer-35fa)
 - [How JavaScript Code Is Executed](https://samirmishra27.hashnode.dev/how-javascript-code-is-executed)
+- [I Built Proofer: A Chrome Extension That Proofreads Your Texts Using Gemma](https://dev.to/samirmishra27/i-built-proofer-chrome-extension-that-proofreads-your-texts-using-gemma-4-3am7)
+- [How to Get Rid of Microsoft Edge's Rounded Borders After the Latest Update](https://dev.to/samirmishra27/how-to-get-rid-of-microsoft-edges-rounded-borders-after-the-latest-update-1cpe)
 
 ## Highlights
 
